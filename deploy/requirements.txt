@@ -1,0 +1,8 @@
+gradio==5.1.0
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+lazypredict
